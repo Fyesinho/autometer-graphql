@@ -1,0 +1,184 @@
+{
+  "songs": [
+    {
+      "id": "1424",
+      "author": "SLAM",
+      "coauthor": "no-data",
+      "title": "1950",
+      "bpm": 200,
+      "type": "Arcade",
+      "channel": "ORIGINAL"
+    },
+    {
+      "id": "1311",
+      "author": "MAX",
+      "coauthor": "no-data",
+      "title": "Accident",
+      "bpm": 183,
+      "type": "Arcade",
+      "channel": "ORIGINAL"
+    },
+    {
+      "id": "1463",
+      "author": "D_AAN",
+      "coauthor": "no-data",
+      "title": "Achluoias",
+      "bpm": 200,
+      "type": "Arcade",
+      "channel": "WORLD MUSIC"
+    },
+    {
+      "id": "1470",
+      "author": "Zircon",
+      "coauthor": "no-data",
+      "title": "Across the Ocean",
+      "bpm": 130,
+      "type": "Arcade",
+      "channel": "WORLD MUSIC"
+    },
+    {
+      "id": "504",
+      "author": "BanYa",
+      "coauthor": "no-data",
+      "title": "All I Want For X-mas",
+      "bpm": 130,
+      "type": "Arcade",
+      "channel": "ORIGINAL"
+    },
+    {
+      "id": "1122",
+      "author": "DM Ashura",
+      "coauthor": "no-data",
+      "title": "Allegro Con Fuoco",
+      "bpm": 156,
+      "type": "Arcade",
+      "channel": "WORLD MUSIC"
+    },
+    {
+      "id": "1426",
+      "author": "DM Ashura",
+      "coauthor": "no-data",
+      "title": "Allegro Piu Mosso",
+      "bpm": 160,
+      "type": "Arcade",
+      "channel": "ORIGINAL"
+    },
+    {
+      "id": "1475",
+      "author": "Bakusute Sotokanda Icchome",
+      "coauthor": "no-data",
+      "title": "Amai Yuuwaku Dangerous",
+      "bpm": 125,
+      "type": "Arcade",
+      "channel": "J-MUSIC"
+    },
+    {
+      "id": "1416",
+      "author": "Gentle Stick",
+      "coauthor": "no-data",
+      "title": "Amphitryon",
+      "bpm": 155,
+      "type": "Arcade",
+      "channel": "ORIGINAL"
+    },
+    {
+      "id": "1427",
+      "author": "DM Ashura",
+      "coauthor": "no-data",
+      "title": "Annihilator Method",
+      "bpm": 192,
+      "type": "Arcade",
+      "channel": "ORIGINAL"
+    },
+    {
+      "id": "112",
+      "author": "Novasonic",
+      "coauthor": "no-data",
+      "title": "Another Truth",
+      "bpm": 136,
+      "type": "Arcade",
+      "channel": "K-POP"
+    },
+    {
+      "id": "D02",
+      "author": "Yahpp",
+      "coauthor": "no-data",
+      "title": "Arch of Darkness",
+      "bpm": 135,
+      "type": "Arcade",
+      "channel": "ORIGINAL"
+    },
+    {
+      "id": "1023",
+      "author": "BanYa Production",
+      "coauthor": "no-data",
+      "title": "Arirang",
+      "bpm": 160,
+      "type": "Arcade",
+      "channel": "ORIGINAL"
+    },
+    {
+      "id": "1154",
+      "author": "Doin",
+      "coauthor": "no-data",
+      "title": "ASDF",
+      "bpm": 170,
+      "type": "Arcade",
+      "channel": "ORIGINAL"
+    },
+    {
+      "id": "1408",
+      "author": "Memme",
+      "coauthor": "no-data",
+      "title": "Avalanche",
+      "bpm": 175,
+      "type": "Arcade",
+      "channel": "ORIGINAL"
+    },
+    {
+      "id": "14A1",
+      "author": "MAX",
+      "coauthor": "Memme",
+      "title": "Avalanquiem",
+      "bpm": 175,
+      "type": "Remix",
+      "channel": "ORIGINAL"
+    },
+    {
+      "id": "1031",
+      "author": "BanYa Production",
+      "coauthor": "no-data",
+      "title": "B.P Classic Remix",
+      "bpm": 164,
+      "type": "Remix",
+      "channel": "ORIGINAL"
+    },
+    {
+      "id": "1034",
+      "author": "BanYa Production",
+      "coauthor": "no-data",
+      "title": "B.P Classic Remix 2",
+      "bpm": 180,
+      "type": "Remix",
+      "channel": "ORIGINAL"
+    },
+    {
+      "id": "1412",
+      "author": "MAX",
+      "coauthor": "no-data",
+      "title": "B2",
+      "bpm": 158,
+      "type": "Arcade",
+      "channel": "ORIGINAL"
+    },
+    {
+      "id": "1491",
+      "author": "HitoshizukuP",
+      "coauthor": "yama∆",
+      "title": "Bad ∞ End ∞ Night",
+      "bpm": 204,
+      "type": "Arcade",
+      "channel": "J-MUSIC"
+    }
+  ]
+}
